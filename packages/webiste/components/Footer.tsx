@@ -21,7 +21,7 @@ const Footer = () => {
           backgroundColor: 'muted',
         }}
       />
-      Supported by &nbsp;
+      Apoiado por &nbsp;
       <a
         href="https://www.triangulostecnologia.com"
         target="_blank"
@@ -29,9 +29,9 @@ const Footer = () => {
       >
         Triângulos Tecnologia
       </a>
-      &nbsp; and &nbsp;
-      <Link href="/contributors">
-        <a>Contributors.</a>
+      &nbsp; e &nbsp;
+      <Link href="/contribuidores">
+        <a>pessoas querendo aprender e ensinar.</a>
       </Link>
     </footer>
   );
